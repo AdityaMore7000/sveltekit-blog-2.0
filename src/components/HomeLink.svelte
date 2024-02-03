@@ -1,0 +1,1 @@
+<div class="text-lg my-12"><a class="hover:underline text-blue-500" href="/">&larr; Back to Home</a></div>
